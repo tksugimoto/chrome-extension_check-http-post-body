@@ -1,6 +1,6 @@
 {
-   "name": "ファイルアップロード確認",
-   "description": "",
+   "name": "POST内容確認",
+   "description": "ファイルアップロード含む",
    "manifest_version": 2,
    "version": "0.1",
    "permissions": [
